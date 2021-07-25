@@ -1,5 +1,4 @@
 #include <optional>
-#include <stack>
 #include <string>
 #include <vector>
 
